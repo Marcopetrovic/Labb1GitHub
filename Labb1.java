@@ -22,7 +22,7 @@ public class Labb1 {
             else{
                 System.out.println(i);
             }
-
+//TEST
 
         }
     }
