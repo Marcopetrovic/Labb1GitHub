@@ -1,5 +1,7 @@
 # Labb1GitHub
 Labb 1
-Marco Petrovic
-Ihisan 
-Julius
+Marco Petrovic,
+
+Ihisan,
+
+Julius.
